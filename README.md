@@ -2,6 +2,8 @@
 Filter an RSS or ATOM feed by title or description.
 
 # Prep
+`git clone https://github.com/triangletodd/feelter.git`
+`cd feelter`
 `pip3 install -r requirements.txt`
 
 # Usage
