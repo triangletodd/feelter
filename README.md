@@ -1,10 +1,12 @@
 # feelter
-Filter an RSS or ATOM feed by title or description.
+Filter an RSS or ATOM feed by title, description, or both.
 
 # Prep
-`git clone https://github.com/triangletodd/feelter.git`
-`cd feelter`
-`pip3 install -r requirements.txt`
+```console
+$ git clone https://github.com/triangletodd/feelter.git
+$ cd feelter
+$ pip3 install -r requirements.txt
+```
 
 # Usage
 ## Print all links
